@@ -1,0 +1,3 @@
+interface CFContext {
+  EB: KVNamespace;
+}
